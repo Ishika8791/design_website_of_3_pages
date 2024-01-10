@@ -1,0 +1,13 @@
+project-root
+|-- public
+|   |-- index.html
+|   |-- dashboard.html
+|   |-- contact.html
+|   |-- styles.css
+|   |-- login.js
+|   |-- dashboard.js
+|   |-- contact.js
+|-- server.js
+|-- database.js
+|-- package.json
+|-- README.md
